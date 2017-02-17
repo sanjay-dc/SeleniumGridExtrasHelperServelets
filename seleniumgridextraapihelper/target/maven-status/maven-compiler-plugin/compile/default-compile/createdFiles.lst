@@ -1,0 +1,7 @@
+com/ariba/es/ai/hub/proxy/clients/RequestForwardingClient.class
+com/ariba/es/ai/hub/proxy/sessions/SeleniumSessions.class
+com/ariba/es/ai/hub/proxy/servlets/SeleniumApiProxyServlet.class
+com/ariba/es/ai/hub/proxy/clients/RequestForwardingClientProvider.class
+com/ariba/es/ai/hub/proxy/clients/HttpResponseConverter.class
+com/ariba/es/ai/hub/proxy/clients/UnsupportedHttpMethodException.class
+com/ariba/es/ai/hub/proxy/clients/HttpClientProvider.class
